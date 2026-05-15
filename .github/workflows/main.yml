@@ -1,4 +1,5 @@
 name: TruffleHog Secret Scan
+ 
 on:
   push:
     branches: [ master, main ]
